@@ -10,7 +10,7 @@
 img{
 	width:350px;
 	height:240px;
-	object-fit:scale;
+	object-fit:cover;
 }
 button{
 	background-color:red;
